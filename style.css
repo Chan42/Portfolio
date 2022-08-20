@@ -220,6 +220,8 @@ section .title::after{
 .about .about-content .left{
     width: 45%;
 }
+.imageprofile{
+    border-radius: 15px;
 .about .about-content .left img{
     height: 400px;
     width: 400px;
