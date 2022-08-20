@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Created By CodingNepal -->
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
