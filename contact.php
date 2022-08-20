@@ -1,4 +1,5 @@
 <?php
+require 'index.html';
 
     if (isset($_POST["message"])) {
         $message = "Ce message vous a été adressé via votre Portfolio
